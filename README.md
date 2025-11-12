@@ -9,7 +9,7 @@
 cd MarkusSaw-MarkusSaw-MarkusSaw-MarkusSaw-sushi-delivery-system-dockerfilelast
 
 # 3. Запуск одной командой
-docker-compose up --build
+docker-compose up -d --build
 
 
 
