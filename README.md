@@ -3,7 +3,7 @@
 Скачивание и запуск
 
 # 1. Клонировать репозиторий
-git clone https://github.com/MarkusSaw/MarkusSaw-MarkusSaw-MarkusSaw-MarkusSaw-sushi-delivery-system-dockerfilelast.git
+"git clone https://github.com/MarkusSaw/MarkusSaw-MarkusSaw-MarkusSaw-MarkusSaw-sushi-delivery-system-dockerfilelast.git"
 
 # 2. Перейти в папку проекта
 cd MarkusSaw-MarkusSaw-MarkusSaw-MarkusSaw-sushi-delivery-system-dockerfilelast
@@ -12,7 +12,6 @@ cd MarkusSaw-MarkusSaw-MarkusSaw-MarkusSaw-sushi-delivery-system-dockerfilelast
 docker-compose up
 
 
-Остановка приложения
 
 # Остановка контейнеров
 docker-compose down
@@ -24,7 +23,8 @@ docker-compose down -v
 
 
 API Endpoints (порт 8080)
-Главная страница
+
+
 
 # Главная страница с инструкцией
 http://localhost:8080/
